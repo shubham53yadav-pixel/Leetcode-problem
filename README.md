@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
@@ -43,9 +44,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
