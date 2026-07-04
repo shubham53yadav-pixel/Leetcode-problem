@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubham53yadav-pixel/Leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
